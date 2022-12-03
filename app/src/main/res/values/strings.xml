@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ColorScanner</string>
+    <string name="color_scanner">Color Scanner</string>
 </resources>
